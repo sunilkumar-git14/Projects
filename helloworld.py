@@ -6,6 +6,4 @@ if variable=="yes":
     print("congrats for coming2")
     print("congrats for coming3")
 else:
-    thirsty=input("enter the answer:\n")
-    if thirsty=="yes":
-        print("then do your work")
+    print("then do your work")
