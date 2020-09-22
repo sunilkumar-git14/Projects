@@ -1,5 +1,5 @@
 variable=input("if you like the world:\n")
-if variable=="no":
+if variable=="yes":
     print("welcome to new world")
     print("congrats for coming")
     print("sunil")
