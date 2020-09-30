@@ -1,5 +1,0 @@
-print("program 4")
-print("program 4,1")
-print("program 4,2")
-print("program 4,3")
-print("program 4,4")
